@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Мой сервер DayZ",
+    "token": "-----------token-------------",
+    "ip": "5.42.211.136",
+    "port": 2303,
+    "offline": "🔴 Server OFF",
+    "template": "🟢 {players}/{slots} | {time} | ➕{queue}"
+  }
+]
